@@ -9,4 +9,5 @@ import numpy as np
 
 a = np.arange(1,10,0.1)
 b = np.sin(a)
-print(b)
+c = np.cos(a)
+print(b,c)
